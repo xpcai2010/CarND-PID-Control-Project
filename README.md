@@ -39,7 +39,7 @@ For the throttle, instead of using a constant throttle value, I make it as a fun
 
 ### Final Parameters
 
-You can find a [video](./examples/PID_Control.mp4) with the final PID values. It's located in the *./examples/PID_Control.mp4*.
+You can find a [video](https://github.com/xpcai2010/CarND-PID-Control-Project/tree/master/examples/PID_Control.mp4) with the final PID values. It's located in the *./examples/PID_Control.mp4*.
 The final PID values for the above demo video is **(P: 0.11, I: 0.00009, D: 3.0)**.
 
 
